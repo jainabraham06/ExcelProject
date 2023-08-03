@@ -1,3 +1,6 @@
+using System.Data;
+using Helper;
+
 namespace NewExcelProject
 {
     [TestClass]
@@ -6,6 +9,9 @@ namespace NewExcelProject
         [TestMethod]
         public void TestMethod1()
         {
+            HelperClass helperClassObj = new HelperClass();
+            string dtTable = helperClassObj.GetDataFromExcel();
+            
         }
     }
 }

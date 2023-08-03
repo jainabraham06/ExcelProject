@@ -1,0 +1,12 @@
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\bin\Debug\net6.0\Helper.deps.json
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\bin\Debug\net6.0\Helper.dll
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\bin\Debug\net6.0\Helper.pdb
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.csproj.AssemblyReference.cache
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.AssemblyInfoInputs.cache
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.AssemblyInfo.cs
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.csproj.CoreCompileInputs.cache
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.dll
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\refint\Helper.dll
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\Helper.pdb
+C:\Users\U01J144\source\repos\NewExcelProject\Helper\obj\Debug\net6.0\ref\Helper.dll
